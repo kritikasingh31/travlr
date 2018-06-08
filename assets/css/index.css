@@ -23,6 +23,7 @@ body{
 	width: 400px;
 	height: 550px; 
 }
+
 .Travlr{
 	margin-left: 50px;
 	margin-top: 40px;
@@ -137,4 +138,18 @@ margin-left:20px;
 }
 .icons{
 	margin-top: 70px;
+}
+@media screen and (max-width:1099px){
+	.content{
+		width: 100%;
+	}
+	.content1{
+		width:35%
+	}
+	img{
+		width:55%;
+	}
+	.content3{
+		width: 10%;
+	}
 }
